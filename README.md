@@ -2,4 +2,6 @@
 
 >Status do projeto: página em desenvolvimento ...
 
-
+```
+node app.js
+´´´
